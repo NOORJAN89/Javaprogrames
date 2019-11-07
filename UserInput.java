@@ -10,6 +10,8 @@ BufferedReader br= new BufferedReader(ir);
 System.out.println(" enter any string");
 String inputString=br.readLine();
 System.out.println(" you entered "+inputString);
+//System.out.println("\" hello!\"");
+
 
 	}
 
