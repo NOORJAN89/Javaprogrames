@@ -9,7 +9,7 @@ public static int row, column;
 public static char[][] board= new char[3][3];
 public static char turn='X';
 
-	public static void main(String[] args) {
+	public static void                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      main(String[] args) {
 		
 		
 		for(int i=0; i<3; i++) {

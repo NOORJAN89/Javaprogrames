@@ -6,8 +6,7 @@ public class Stopwatch {
 	public long ElspedTimer=0;
 public void start() {
 	StartTimer=System.currentTimeMillis();
-	
-	System.out.println("Start Time in seconds is="+StartTimer/1000 );
+System.out.println("Start Time in seconds is="+StartTimer/1000 );
 }
 
 public void stop () {
